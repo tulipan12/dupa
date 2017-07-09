@@ -4,4 +4,4 @@ def dupa(asdf):
 def cipa(tomek):
 	print tomek
 
-zczxc
+safasdfasdfzczxc

@@ -1,4 +1,4 @@
-def dupa(asdf):
+afasfdef dupa(asdf):
 	print asdf
 
 def cipa(tomek):
